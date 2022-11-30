@@ -1,1 +1,31 @@
-/* styles go here */
+div.personalinfo {
+  margin-top: 10px;
+}
+
+fieldset.personalinfo {
+  margin-bottom: 20px;
+}
+
+fieldset.registration {
+  margin-bottom: 20px;
+}
+
+fieldset.facts {
+  margin-bottom: 20px;
+}
+
+div.password {
+  margin-top: 10px;
+}
+
+div.facts {
+  margin-top: 10px;
+}
+
+div.additional-info {
+  margin-top: 10px;
+}
+
+button.submit {
+  margin-top: 20px;
+}
