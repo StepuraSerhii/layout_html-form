@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,UACE,eACF,CAEA,eACE,eACF","file":"style.91c20222.css","sourceRoot":"..\\src","sourcesContent":[".divIdent {\n  margin-top: 10px;\n}\n\n.fieldsetIdent {\n  margin-top: 20px;\n}\n"]}
